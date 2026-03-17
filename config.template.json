@@ -1,0 +1,33 @@
+{
+  "author": "千序",
+  "defaultTheme": "orange",
+  "themes": {
+    "orange": {
+      "name": "果核橙",
+      "primaryColor": "#FF6600",
+      "description": "橙色调，活力风格，SVG 编号标题"
+    },
+    "green": {
+      "name": "墨玉绿",
+      "primaryColor": "#059669",
+      "description": "绿色调，专业风格，Part 标题样式"
+    },
+    "moyu-v2": {
+      "name": "墨玉绿 - 改编版",
+      "primaryColor": "#059669",
+      "description": "绿色调改良版，可点击目录导航，深蓝渐变标题"
+    }
+  },
+  "primaryColor": "#6366f1",
+  "secondaryColor": "#8b5cf6",
+  "highlightColor": "#fef3c7",
+  "codeLabelColor": "#4ade80",
+  "codeBgColor": "#282c34",
+  "quoteBgColor": "#f5f5f5",
+  "imageConfig": {
+    "provider": "gemini",
+    "quality": "high",
+    "size": "1024x576",
+    "noWatermark": true
+  }
+}

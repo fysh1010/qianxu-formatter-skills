@@ -1,0 +1,23 @@
+# 千序排版器 - Git 忽略文件
+
+# 敏感配置（不要提交！）
+.env
+.env.local
+.env.*.local
+
+# Node 模块
+node_modules/
+
+# 输出目录
+output/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
