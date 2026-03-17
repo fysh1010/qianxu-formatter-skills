@@ -7,7 +7,7 @@
 ### 1. 安装依赖
 
 ```bash
-cd qianxu-formatter
+cd qianxu-formatter-skills
 npm install
 ```
 
